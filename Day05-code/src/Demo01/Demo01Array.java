@@ -2,7 +2,7 @@ package Demo01;
 
 /**
  * @program: basic-code
- * @description: 数组
+ * @description: 数组动态初始化
  * @author: ty
  * @create: 2019-04-03 14:34
  *
