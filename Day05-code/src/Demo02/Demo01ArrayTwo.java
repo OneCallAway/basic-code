@@ -11,6 +11,7 @@ package Demo02;
 public class Demo01ArrayTwo {
     public static void main(String[] args) {
         //动态初始化
+        //动态初始化
         int[] arrayA = new int[3];
         System.out.println(arrayA);//地址值
         System.out.println(arrayA[0]);//0
