@@ -17,8 +17,18 @@ public class Demo05ArrayMax {
                 max = array[i];
             }
         }
+
+        int min = array[0];
+        for (int i = 1; i < array.length; i++) {
+            //如果当前元素比min值更小，替换min值
+            if(array[i] < min){
+                min = array[i];
+            }
+
+        }
         //谁的值最大就存在max中
         System.out.println(max);
-
+        //最小值存在min中
+        System.out.println(min);
     }
 }
