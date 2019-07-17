@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ddc905d-5437-4927-93f1-3c93c46a1da8" name="Default Changelist" comment="数组">
-      <change afterPath="$PROJECT_DIR$/Day05-code/src/Demo04/Demo02ArrayReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06-code/Day06-code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06-code/src/Demo01/Demo01PrintArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07-code/Day07-code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day05-code/Day05-code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Day05-code/Day05-code.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,42 +18,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day05-code/src/Demo03/Demo03ArrayLength.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day05-code/src/Demo03/Demo04Array.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day05-code/src/Demo03/Demo05ArrayMax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day05-code/src/Demo03/Demo06ArrayReverse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day05-code/src/Demo04/Demo01ArrayParam.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
@@ -58,11 +26,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day05-code/src/Demo04/Demo02ArrayReturn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            <state relative-caret-position="420">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day03-code/src/Sequence/Demo01Sequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day03-code/src/Sequence/Demo04IfElseif.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day03-code/src/Sequence/Demo06Max.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day06-code/src/Demo01/Demo01PrintArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -119,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day02-code/src/Conversion/Demo10Operator.java" />
         <option value="$PROJECT_DIR$/Day02-code/src/Conversion/Demo11Method.java" />
         <option value="$PROJECT_DIR$/Day02-code/src/Conversion/Demo12Notice.java" />
         <option value="$PROJECT_DIR$/Day02-code/src/Conversion/Demo13Notice.java" />
@@ -170,14 +173,15 @@
         <option value="$PROJECT_DIR$/Day05-code/src/Demo03/Demo06ArrayReverse.java" />
         <option value="$PROJECT_DIR$/Day05-code/src/Demo04/Demo01ArrayParam.java" />
         <option value="$PROJECT_DIR$/Day05-code/src/Demo04/Demo02ArrayReturn.java" />
+        <option value="$PROJECT_DIR$/Day06-code/src/Demo01/Demo01PrintArray.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2157" />
-    <option name="y" value="137" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -185,36 +189,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day05-code" type="462c0819:PsiDirectoryNode" />
+              <item name="Day06-code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day05-code" type="462c0819:PsiDirectoryNode" />
+              <item name="Day06-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day05-code" type="462c0819:PsiDirectoryNode" />
+              <item name="Day06-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo04" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560921781565" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563347971710" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="E:/Git/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -241,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo02ArrayReturn">
+  <component name="RunManager" selected="Application.Demo01PrintArray">
     <configuration name="Demo01ArrayParam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo04.Demo01ArrayParam" />
       <module name="Day05-code" />
@@ -255,12 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02ArrayReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo04.Demo02ArrayReturn" />
-      <module name="Day05-code" />
+    <configuration name="Demo01PrintArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo01.Demo01PrintArray" />
+      <module name="Day06-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo04.*" />
+          <option name="PATTERN" value="Demo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,12 +272,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo04Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo03.Demo04Array" />
+    <configuration name="Demo02ArrayReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo04.Demo02ArrayReturn" />
       <module name="Day05-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo03.*" />
+          <option name="PATTERN" value="Demo04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,11 +313,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo01PrintArray" />
         <item itemvalue="Application.Demo02ArrayReturn" />
         <item itemvalue="Application.Demo01ArrayParam" />
         <item itemvalue="Application.Demo06ArrayReverse" />
         <item itemvalue="Application.Demo05ArrayMax" />
-        <item itemvalue="Application.Demo04Array" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +355,10 @@
       <workItem from="1557984831198" duration="2686000" />
       <workItem from="1559207717011" duration="974000" />
       <workItem from="1559735754469" duration="1837000" />
-      <workItem from="1560912934517" duration="2383000" />
+      <workItem from="1560912934517" duration="3473000" />
+      <workItem from="1561005676336" duration="1264000" />
+      <workItem from="1562404260456" duration="3406000" />
+      <workItem from="1563347193428" duration="819000" />
     </task>
     <task id="LOCAL-00001" summary="数组">
       <created>1554290191515</created>
@@ -392,7 +399,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54506000" />
+    <option name="totallyTimeSpent" value="61085000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -404,7 +411,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -412,10 +419,10 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.1276824" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.087446354" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32960895" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49946353" weight="0.43575418" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49946353" weight="0.2603352" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5005365" side_tool="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
@@ -490,20 +497,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="数组" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day02-code/src/Conversion/Demo13Notice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day03-code/src/Sequence/Demo01Sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day03-code/src/Sequence/Demo02If.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -518,21 +511,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day03-code/src/Sequence/Demo04IfElseif.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day03-code/src/Sequence/Demo05IfElsePractise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day03-code/src/Sequence/Demo06Max.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
@@ -814,6 +793,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day05-code/src/Demo04/Demo02ArrayReturn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day03-code/src/Sequence/Demo01Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day03-code/src/Sequence/Demo04IfElseif.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day03-code/src/Sequence/Demo06Max.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day02-code/src/Conversion/Demo09Logic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -842,10 +849,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day05-code/src/Demo04/Demo02ArrayReturn.java">
+    <entry file="file://$PROJECT_DIR$/Day06-code/src/Demo01/Demo01PrintArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="328">
+          <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -901,7 +908,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Day05-code</last-edited>
+          <last-edited>Day06-code</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
