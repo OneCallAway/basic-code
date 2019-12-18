@@ -9,6 +9,8 @@ import Demo03.Phone;
  **/
 public class Demo03PhoneOne {
     public static void main(String[] args) {
+        //根据Phone类，创建一个名为one的对象
+        //格式：类名称 对象名 = new 类名称（）；
         Phone one = new Phone();
         one.brand = "苹果";
         one.color = "白色";
@@ -22,6 +24,7 @@ public class Demo03PhoneOne {
         one.sedMessage();
         System.out.println("++++++++++++++++++++");
 
+        //Phone two = one;
         Phone two = new Phone();
         two.brand = "三星";
         two.color = "白色";
