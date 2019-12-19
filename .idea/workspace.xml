@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ddc905d-5437-4927-93f1-3c93c46a1da8" name="Default Changelist" comment="数组">
-      <change afterPath="$PROJECT_DIR$/Day06-code/src/Demo03/Demo05PhoneReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06-code/src/Demo04/Demo01VariableDifference.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Day06-code/Demo03/Demo04PhoneParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Day06-code/Demo03/Demo04PhoneParam.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,11 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day06-code/src/Demo03/Demo05PhoneReturn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            <state relative-caret-position="240">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day06-code/src/Demo04/Demo01VariableDifference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="509">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -75,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day03-code/src/Sequence/Demo08SwitchNotice.java" />
         <option value="$PROJECT_DIR$/Day03-code/src/Sequence/Demo09For.java" />
         <option value="$PROJECT_DIR$/Day03-code/src/Sequence/Demo10While.java" />
         <option value="$PROJECT_DIR$/Day03-code/src/Sequence/Demo11DoWhile.java" />
@@ -126,6 +133,7 @@
         <option value="$PROJECT_DIR$/Day06-code/src/Demo03/Demo03PhoneOne.java" />
         <option value="$PROJECT_DIR$/Day06-code/src/Demo03/Demo04PhoneParam.java" />
         <option value="$PROJECT_DIR$/Day06-code/src/Demo03/Demo05PhoneReturn.java" />
+        <option value="$PROJECT_DIR$/Day06-code/src/Demo04/Demo01VariableDifference.java" />
       </list>
     </option>
   </component>
@@ -159,24 +167,6 @@
               <item name="Day06-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day06-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day06-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day06-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo03" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -186,7 +176,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576664142290" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576732578667" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="E:/Git/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -336,7 +326,7 @@
       <workItem from="1574832553393" duration="1836000" />
       <workItem from="1575865868426" duration="1028000" />
       <workItem from="1576222011619" duration="2895000" />
-      <workItem from="1576576997200" duration="5137000" />
+      <workItem from="1576576997200" duration="8340000" />
     </task>
     <task id="LOCAL-00001" summary="数组">
       <created>1554290191515</created>
@@ -377,7 +367,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80086000" />
+    <option name="totallyTimeSpent" value="83289000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,10 +387,10 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.14645922" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.14645922" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32960895" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.49946353" visible="true" weight="0.2603352" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49946353" visible="true" weight="0.2603352" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5005365" side_tool="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
@@ -475,13 +465,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="数组" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day03-code/src/Sequence/Demo15Continue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day03-code/src/Sequence/Demo16DeadLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -829,8 +812,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day06-code/src/Demo03/Demo05PhoneReturn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        <state relative-caret-position="240">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06-code/src/Demo04/Demo01VariableDifference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
         </state>
       </provider>
     </entry>
