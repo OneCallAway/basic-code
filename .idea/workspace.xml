@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ddc905d-5437-4927-93f1-3c93c46a1da8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day08-code/src/Demo02/Demo01StringEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08-code/src/Demo02/Demo02StringGet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Day08-code/Demo01/Demo02StringPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Day08-code/Demo01/Demo02StringPool.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day08-code/src/Demo01/Demo01String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
+            <state relative-caret-position="1290">
               <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
             </state>
           </provider>
@@ -27,16 +26,25 @@
         <entry file="file://$PROJECT_DIR$/Day08-code/src/Demo01/Demo02StringPool.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day08-code/src/Demo02/Demo01StringEquals.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day08-code/src/Demo02/Demo01StringEquals.java">
+        <entry file="file://$PROJECT_DIR$/Day08-code/src/Demo02/Demo02StringGet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="44" column="49" lean-forward="true" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
+            <state relative-caret-position="662">
+              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -57,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day06-code/src/Demo01/Student.java" />
         <option value="$PROJECT_DIR$/Day06-code/src/Demo02/Student.java" />
         <option value="$PROJECT_DIR$/Day06-code/src/Demo02/Demo02Student.java" />
         <option value="$PROJECT_DIR$/Day06-code/src/Demo03/Phone.java" />
@@ -108,14 +115,15 @@
         <option value="$PROJECT_DIR$/Day08-code/src/Demo01/Demo01String.java" />
         <option value="$PROJECT_DIR$/Day08-code/src/Demo01/Demo02StringPool.java" />
         <option value="$PROJECT_DIR$/Day08-code/src/Demo02/Demo01StringEquals.java" />
+        <option value="$PROJECT_DIR$/Day08-code/src/Demo02/Demo02StringGet.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="116" />
-    <option name="y" value="110" />
-    <option name="width" value="1294" />
-    <option name="height" value="694" />
+    <option name="x" value="544" />
+    <option name="y" value="14" />
+    <option name="width" value="1368" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -123,6 +131,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,18 +145,22 @@
               <item name="Day08-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day08-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo02" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582260497548" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583825935408" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="E:/Git/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -176,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo01StringEquals">
+  <component name="RunManager" selected="Application.Demo02StringGet">
     <configuration name="Demo01StringEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo02.Demo01StringEquals" />
       <module name="Day08-code" />
@@ -190,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02ArrayListStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo05.Demo02ArrayListStudent" />
-      <module name="Day07-code" />
+    <configuration name="Demo02StringGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo02.Demo02StringGet" />
+      <module name="Day08-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo05.*" />
+          <option name="PATTERN" value="Demo02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo02StringGet" />
         <item itemvalue="Application.Demo01StringEquals" />
         <item itemvalue="Application.Demo02StringPool" />
         <item itemvalue="Application.Demo04ArrayListReturn" />
         <item itemvalue="Application.Demo03ArrayListPrint" />
-        <item itemvalue="Application.Demo02ArrayListStudent" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +318,14 @@
       <workItem from="1578718630489" duration="6502000" />
       <workItem from="1581940226484" duration="583000" />
       <workItem from="1582008647240" duration="1484000" />
-      <workItem from="1582254630599" duration="4210000" />
+      <workItem from="1582254630599" duration="4787000" />
+      <workItem from="1582283317812" duration="644000" />
+      <workItem from="1582513006903" duration="2187000" />
+      <workItem from="1582594173934" duration="1593000" />
+      <workItem from="1583477526463" duration="652000" />
+      <workItem from="1583564643884" duration="606000" />
+      <workItem from="1583738699142" duration="1257000" />
+      <workItem from="1583825136368" duration="794000" />
     </task>
     <task id="LOCAL-00001" summary="数组">
       <created>1554290191515</created>
@@ -352,7 +373,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127572000" />
+    <option name="totallyTimeSpent" value="135882000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -372,16 +393,16 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.12070815" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.12017167" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32960895" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49946353" weight="0.2603352" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49946353" visible="true" weight="0.08938547" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5005365" side_tool="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32924107" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32849163" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32849163" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -450,20 +471,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="数组" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day01-code/src/Constant/Demo1Constant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day01-code/src/Variable/Demo4VariableNotice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day02-code/src/Conversion/Demo2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -778,9 +785,10 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day08-code/src/Demo02/s.java" />
     <entry file="file://$PROJECT_DIR$/Day08-code/src/Demo01/Demo01String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
+        <state relative-caret-position="1290">
           <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
         </state>
       </provider>
@@ -788,14 +796,21 @@
     <entry file="file://$PROJECT_DIR$/Day08-code/src/Demo01/Demo02StringPool.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day08-code/src/Demo02/Demo01StringEquals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="44" column="49" lean-forward="true" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
+        <state relative-caret-position="361">
+          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day08-code/src/Demo02/Demo02StringGet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
         </state>
       </provider>
     </entry>
