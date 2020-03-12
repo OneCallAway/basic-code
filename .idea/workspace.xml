@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ddc905d-5437-4927-93f1-3c93c46a1da8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Day08-code/src/Demo04/Demo04MathPractise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day08-code/src/Demo03/Demo02StaticMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day08-code/src/Demo03/Demo02StaticMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day08-code/src/Demo03/Demo03StaticStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day08-code/src/Demo03/Demo03StaticStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day08-code/src/Demo03/Demo04Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day08-code/src/Demo03/Demo04Static.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day08-code/src/Demo03/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day08-code/src/Demo03/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day08-code/src/Demo03/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day08-code/src/Demo03/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day08-code/src/Demo04/Demo01Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day08-code/src/Demo04/Demo01Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day08-code/src/Demo04/Demo02ArraysPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day08-code/src/Demo04/Demo02ArraysPractise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day08-code/src/Demo04/Demo03Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day08-code/src/Demo04/Demo03Math.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +56,7 @@
       <recent name="Demo03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo02ArraysPractise">
+  <component name="RunManager" selected="Application.Demo04MathPractise">
     <configuration name="Demo01Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo04.Demo01Arrays" />
       <module name="Day08-code" />
@@ -88,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02StaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo03.Demo02StaticMethod" />
+    <configuration name="Demo03Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo04.Demo03Math" />
       <module name="Day08-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo03.*" />
+          <option name="PATTERN" value="Demo04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03StaticStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo03.Demo03StaticStudent" />
+    <configuration name="Demo04MathPractise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo04.Demo04MathPractise" />
       <module name="Day08-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo03.*" />
+          <option name="PATTERN" value="Demo04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo04MathPractise" />
+        <item itemvalue="Application.Demo03Math" />
         <item itemvalue="Application.Demo02ArraysPractise" />
         <item itemvalue="Application.Demo01Arrays" />
         <item itemvalue="Application.Demo04Static" />
-        <item itemvalue="Application.Demo03StaticStudent" />
-        <item itemvalue="Application.Demo02StaticMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +198,7 @@
       <workItem from="1583866299450" duration="16000" />
       <workItem from="1583866356271" duration="37000" />
       <workItem from="1583866424453" duration="6916000" />
-      <workItem from="1583927274480" duration="7321000" />
+      <workItem from="1583927274480" duration="9100000" />
     </task>
     <task id="LOCAL-00001" summary="数组">
       <created>1554290191515</created>
@@ -292,22 +287,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="721" y="167" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1040/0.0.1920.1040/3840.168.1280.680/5120.151.1280.680@0.0.1920.1040" timestamp="1583963202520" />
-    <state width="1867" height="267" key="GridCell.Tab.0.bottom" timestamp="1583969550929">
+    <state width="1867" height="267" key="GridCell.Tab.0.bottom" timestamp="1583971028930">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040/3840.168.1280.680/5120.151.1280.680@0.0.1920.1040" timestamp="1583969550929" />
-    <state width="1867" height="267" key="GridCell.Tab.0.center" timestamp="1583969550929">
+    <state width="1867" height="267" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040/3840.168.1280.680/5120.151.1280.680@0.0.1920.1040" timestamp="1583971028930" />
+    <state width="1867" height="267" key="GridCell.Tab.0.center" timestamp="1583971028930">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040/3840.168.1280.680/5120.151.1280.680@0.0.1920.1040" timestamp="1583969550929" />
-    <state width="1867" height="267" key="GridCell.Tab.0.left" timestamp="1583969550929">
+    <state width="1867" height="267" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040/3840.168.1280.680/5120.151.1280.680@0.0.1920.1040" timestamp="1583971028930" />
+    <state width="1867" height="267" key="GridCell.Tab.0.left" timestamp="1583971028930">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040/3840.168.1280.680/5120.151.1280.680@0.0.1920.1040" timestamp="1583969550929" />
-    <state width="1867" height="267" key="GridCell.Tab.0.right" timestamp="1583969550929">
+    <state width="1867" height="267" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040/3840.168.1280.680/5120.151.1280.680@0.0.1920.1040" timestamp="1583971028930" />
+    <state width="1867" height="267" key="GridCell.Tab.0.right" timestamp="1583971028930">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040/3840.168.1280.680/5120.151.1280.680@0.0.1920.1040" timestamp="1583969550929" />
+    <state width="1867" height="267" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040/3840.168.1280.680/5120.151.1280.680@0.0.1920.1040" timestamp="1583971028930" />
     <state x="312" y="0" key="SettingsEditor" timestamp="1583866479456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
